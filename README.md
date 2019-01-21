@@ -1,5 +1,13 @@
-# fwv-theme-updates
-Spyduck's Theme Updates for Fallout Who Vegas
+<h1 align="center"><b>Spyduck's Theme Updates for Fallout Who Vegas</b></h1>
+
+<div>
+  <img alt="Glitch theme" src="/images/20170312031927_1.jpg" height="190" width="32%"/>
+  <img alt="Glitch theme" src="/images/20170312032004_1.jpg" height="190" width="32%"/>
+  <img alt="Edwardian theme" src="/images/20170312032118_1.jpg" height="190" width="32%"/>
+  <img alt="Classical theme" src="/images/20170312032258_1.jpg" height="190" width="32%"/>
+  <img alt="Secondary theme" src="/images/20170312032453_1.jpg" height="190" width="32%"/>
+  <img alt="Secondary theme" src="/images/20170312032504_1.jpg" height="190" width="32%"/>
+</div>
 
 ## Requires
 
