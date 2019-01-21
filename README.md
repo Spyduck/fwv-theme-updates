@@ -18,7 +18,8 @@
 - [Fallout Who Vegas 2.4 Final](http://www.nexusmods.com/newvegas/mods/50132/)
 
 ### Recommended (but *not* required)
-[Fallout Who Vegas - Xoanon's Additions and Fixes](http://www.nexusmods.com/newvegas/mods/61020/)
+
+- [Fallout Who Vegas - Xoanon's Additions and Fixes](http://www.nexusmods.com/newvegas/mods/61020/)
 
 ## Installation
 
