@@ -1,9 +1,7 @@
 # fwv-theme-updates
 Spyduck's Theme Updates for Fallout Who Vegas
 
-## Installation
-
-### Requires
+## Requires
 
 - [http://nvse.silverlock.org](NVSE)
 
@@ -13,6 +11,8 @@ Spyduck's Theme Updates for Fallout Who Vegas
 
 ### Recommended (but *not* required)
 [Fallout Who Vegas - Xoanon's Additions and Fixes](http://www.nexusmods.com/newvegas/mods/61020/)
+
+## Installation
 
 Extract archive contents to (New Vegas install path)\Data
 
