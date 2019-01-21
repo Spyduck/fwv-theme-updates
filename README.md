@@ -3,7 +3,7 @@ Spyduck's Theme Updates for Fallout Who Vegas
 
 ## Requires
 
-- [http://nvse.silverlock.org](NVSE)
+- [NVSE](http://nvse.silverlock.org)
 
 - [JIP NVSE](http://www.nexusmods.com/newvegas/mods/58277/)
 
