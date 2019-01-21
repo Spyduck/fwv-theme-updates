@@ -1,0 +1,86 @@
+Spyduck's Theme Updates for Fallout Who Vegas
+Version 0.1.3
+
+=== INSTALLATION ===
+Requires:
+NVSE
+http://nvse.silverlock.org
+JIP NVSE
+http://www.nexusmods.com/newvegas/mods/58277/
+Fallout Who Vegas 2.4 Final
+http://www.nexusmods.com/newvegas/mods/50132/
+
+Recommended but NOT required:
+Fallout Who Vegas - Xoanon's Additions and Fixes
+http://www.nexusmods.com/newvegas/mods/61020/
+
+Extract archive contents to (New Vegas install path)\Data
+Make sure Archive Invalidation is activated. You can do this through Nexus Mod Manager or a number of other things.
+The first time you've installed this, if your save starts in the TARDIS, exit it and re-enter.
+ 
+Load order should look like this:
+fwv.esm (FWV, required)
+fwvSpyduckThemeUpdates.esm (this)
+fwvXoanon.esm (optional if Xoanon's fixes are installed)
+fwv.esp (FWV, required)
+fwvXoanon.esp (optional if Xoanon's fixes are installed)
+(other optional Xoanon fixes here)
+fwvSpyduckThemeUpdates.esp (this)
+
+Hopefully I haven't forgotten any textures or meshes, let me know if I have through PM at http://falloutwho.proboards.com/user/31
+
+
+=== CHANGELOG ===
+Release 0.1.3:
+	Switched to a more sane version naming style and retroactively renamed old versions
+	Hooked up scanner to a button in Secondary console room
+Release 0.1.2 (old: #3) - January 18, 2019:
+	Fix for missing scanners by removing the new animations
+Release 0.1.1 (old: #2.1) - February 3, 2018:
+	Misc. fixes
+Release 0.1.0 (old: #2) - March 19, 2017:
+	Add JIP NVSE Plugin check
+	Classic corridors for Secondary and Rani consoles
+	Fix for Edwardian ambient noise in every console
+	Fix for invisible Copper and Edwardian scanners
+	Fix for missing texture above Glitch console
+	Fix for Edwardian roof being stuck open
+	Void glasses moved to sit on new scanner mesh
+
+Release 0.0.1 (old: #1):
+	Initial release
+
+
+=== CHANGES TO CONSOLES ===
+Secondary:
+Added Secondary Console room (credit to xg42 for most meshes)
+
+Copper:
+More animated console scanner, misc lighting changes
+
+Coral:
+New console scanner mesh
+
+Classical:
+Light (default) and Dark Marble variations
+
+Toyota:
+All lighting options work
+
+Edwardian:
+Roof animates open/closed
+Animated console scanner
+Extra room decoration
+
+Glitch:
+Extra lighting options
+Added railing
+Opaque roof option
+Made closer to console as described in Engines of War (stone-looking pillars, rails, roof opacity, etc.)
+
+Retro:
+No changes (yet)
+
+Rani:
+Refuel/repair now work in advanced mode
+Policebox now shows Rani interior
