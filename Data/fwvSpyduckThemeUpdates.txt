@@ -1,5 +1,5 @@
 Spyduck's Theme Updates for Fallout Who Vegas
-Version 0.1.3
+Version 0.1.4
 
 === INSTALLATION ===
 Requires:
@@ -31,7 +31,9 @@ Hopefully I haven't forgotten any textures or meshes, let me know if I have thro
 
 
 === CHANGELOG ===
-Release 0.1.3:
+Release 0.1.4 - October 20, 2020:
+	Fix the Edwardian scanner again
+Release 0.1.3 - January 21, 2019:
 	Switched to a more sane version naming style and retroactively renamed old versions
 	Hooked up scanner to a button in Secondary console room
 Release 0.1.2 (old: #3) - January 18, 2019:
@@ -46,7 +48,6 @@ Release 0.1.0 (old: #2) - March 19, 2017:
 	Fix for missing texture above Glitch console
 	Fix for Edwardian roof being stuck open
 	Void glasses moved to sit on new scanner mesh
-
 Release 0.0.1 (old: #1):
 	Initial release
 
